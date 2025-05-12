@@ -1,0 +1,15 @@
+# Ignora pastas temporárias do Visual Studio
+.vs/
+bin/
+obj/
+
+# Ignora arquivos de usuário do VS
+*.user
+*.suo
+
+# Ignora arquivos de build
+*.exe
+*.dll
+
+# Ignora pacotes NuGet baixados
+packages/
