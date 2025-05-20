@@ -1,6 +1,6 @@
 # PokéApp - Consulta de Pokémon via API
 
-Este é um projeto de estudo em C# que utiliza a [PokéAPI](https://pokeapi.co/) para buscar informações detalhadas sobre Pokémon e montar uma equipe personalizada, como nos jogos da franquia.
+Este é um projeto de estudo em C# que utiliza a [PokéAPI](https://pokeapi.co/) para buscar informações detalhadas sobre Pokémon, como nos jogos da franquia.
 
 ## 🔍 Funcionalidades
 
